@@ -1,7 +1,7 @@
 # FÓRMULA MÁGICA DE JOEL GREENBLATT
 
 ### CONCEITO
-A ideia da Magic Formula é ser uma ferramenta capaz de encontrar empresas baratas e de qualidade. A formula usa apenas dois indicadores fundamentalistas para selecionar ações;
+A ideia da Magic Formula é ser uma ferramenta capaz de encontrar empresas baratas e de qualidade. A formula usa apenas dois indicadores fundamentalistas para selecionar açõe.
 
 ### INDICADORES
 #### EV/EBIT 
